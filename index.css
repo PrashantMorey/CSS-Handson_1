@@ -4,7 +4,10 @@ h2{
 
 ol{
     color: brown;
+    
 }
+
+
 
 
 ul{
@@ -12,7 +15,7 @@ ul{
 }
 
 .word{
-   word-spacing: 5px;
+   margin: 15px;
 }
 .letter{
     letter-spacing: 4px;
