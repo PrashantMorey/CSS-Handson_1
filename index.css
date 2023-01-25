@@ -1,0 +1,26 @@
+h2{
+    color: rgb(245, 94, 94);
+}
+
+ol{
+    color: brown;
+}
+
+
+ul{
+    color: brown;
+}
+
+.word{
+   word-spacing: 5px;
+}
+.letter{
+    letter-spacing: 4px;
+}
+
+
+
+p{
+
+    color: brown;
+}
